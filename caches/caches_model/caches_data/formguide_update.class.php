@@ -18,6 +18,11 @@ class formguide_update {
 			$info[$field] = method_exists($this, $func) ? $this->$func($field, $value) : $value;
 		}
 	}
+<<<<<<< HEAD
 
  } 
+=======
+
+ } 
+>>>>>>> c9ded444eef1034dbe0c743b8cdeb25f5706fdb5
 ?>
