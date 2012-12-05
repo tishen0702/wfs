@@ -96,6 +96,11 @@ class formguide_output {
 		return $result;
 	}
 
+<<<<<<< HEAD
 
  } 
+=======
+
+ } 
+>>>>>>> c9ded444eef1034dbe0c743b8cdeb25f5706fdb5
 ?>

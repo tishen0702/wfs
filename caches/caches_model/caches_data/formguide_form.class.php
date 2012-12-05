@@ -174,6 +174,11 @@ class formguide_form {
 		$linkageid = $setting['linkageid'];
 		return menu_linkage($linkageid,$field,$value);
 	}
+<<<<<<< HEAD
 
  } 
+=======
+
+ } 
+>>>>>>> c9ded444eef1034dbe0c743b8cdeb25f5706fdb5
 ?>
