@@ -9,7 +9,7 @@ return array (
     'parentid' => '0',
     'arrparentid' => '0',
     'child' => '1',
-    'arrchildid' => '1,2,3,5,162',
+    'arrchildid' => '1,2,3,4,5',
     'catname' => '网站介绍',
     'style' => '',
     'image' => '',
@@ -145,7 +145,7 @@ return array (
     'description' => '',
     'parentdir' => 'about/',
     'catdir' => 'copyright',
-    'url' => 'http://test.phpcms.cn/index.php?m=content&c=index&a=lists&catid=4',
+    'url' => '/index.php?m=content&c=index&a=lists&catid=4',
     'items' => '0',
     'hits' => '0',
     'setting' => 'array (
