@@ -5,7 +5,7 @@ return array (
     'siteid' => '1',
     'name' => '默认站点',
     'dirname' => '',
-    'domain' => 'http://www.wfs.dev/',
+    'domain' => '/',
     'site_title' => 'PHPCMS演示站',
     'keywords' => 'PHPCMS演示站',
     'description' => 'PHPCMS演示站',
@@ -23,8 +23,8 @@ return array (
   \'watermark_quality\' => \'80\',
   \'watermark_pos\' => \'9\',
 )',
-    'uuid' => '',
-    'url' => 'http://www.wfs.dev/',
+    'uuid' => '0ac02ac2-3ec3-11e2-bce6-00163e236e97',
+    'url' => '/',
   ),
 );
 ?>
