@@ -77,3 +77,7 @@
 <?php exit;?>12-05 18:59:28 | 2 | chmod(): Operation not permitted | phpcms/modules/formguide/classes/formguide.class.php | 35
 <?php exit;?>12-05 18:59:28 | 2 | chmod(): Operation not permitted | phpcms/modules/formguide/classes/formguide.class.php | 35
 <?php exit;?>12-05 18:59:28 | 2 | chmod(): Operation not permitted | phpcms/modules/formguide/classes/formguide.class.php | 35
+<?php exit;?>12-05 19:17:13 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-05 19:24:43 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-05 19:24:52 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-05 19:25:05 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
