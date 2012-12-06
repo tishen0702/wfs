@@ -187,3 +187,23 @@
 <?php exit;?>12-05 18:59:28 | 2 | chmod(): Operation not permitted | phpcms/modules/formguide/classes/formguide.class.php | 35
 >>>>>>> c9ded444eef1034dbe0c743b8cdeb25f5706fdb5
 >>>>>>> 9c38d42482a25ac082780740ff68e788d77d6a39
+<?php exit;?>12-06 10:14:16 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 10:20:21 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 10:23:46 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 10:27:25 | 2 | chmod(): Operation not permitted | phpcms/modules/content/sitemodel.php | 160
+<?php exit;?>12-06 10:27:25 | 2 | chmod(): Operation not permitted | phpcms/modules/content/sitemodel.php | 160
+<?php exit;?>12-06 10:27:25 | 2 | chmod(): Operation not permitted | phpcms/modules/content/sitemodel.php | 160
+<?php exit;?>12-06 10:27:25 | 2 | chmod(): Operation not permitted | phpcms/modules/content/sitemodel.php | 160
+<?php exit;?>12-06 10:53:48 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 10:57:47 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 10:59:12 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 10:59:59 | 2 | chmod(): Operation not permitted | phpcms/modules/content/classes/html.class.php | 364
+<?php exit;?>12-06 11:00:17 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 11:00:20 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 11:00:32 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 11:00:37 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 11:00:38 | 2 | Illegal string offset 'enablehits' | phpcms/modules/poster/index.php | 104
+<?php exit;?>12-06 11:01:20 | 2 | chmod(): Operation not permitted | phpcms/modules/content/sitemodel.php | 160
+<?php exit;?>12-06 11:01:20 | 2 | chmod(): Operation not permitted | phpcms/modules/content/sitemodel.php | 160
+<?php exit;?>12-06 11:01:20 | 2 | chmod(): Operation not permitted | phpcms/modules/content/sitemodel.php | 160
+<?php exit;?>12-06 11:01:20 | 2 | chmod(): Operation not permitted | phpcms/modules/content/sitemodel.php | 160
