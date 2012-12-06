@@ -342,11 +342,11 @@ $LANG['ip_type_error']					=	'格式不是ip地址！';
 
 //// keyword.php
 $LANG['keyword_name'] = '关键词';
-$LANG['keyword_listorder'] = '排序权值'; 
-$LANG['quote_num'] = '引用次数'; 
-$LANG['last_quote'] = '最后引用'; 
-$LANG['click_num'] = '点击次数'; 
-$LANG['last_vistor'] = '最后访问'; 
+$LANG['keyword_listorder'] = '排序权值';
+$LANG['quote_num'] = '引用次数';
+$LANG['last_quote'] = '最后引用';
+$LANG['click_num'] = '点击次数';
+$LANG['last_vistor'] = '最后访问';
 ////敏感词
 $LANG['badword_name'] = '敏感词';
 $LANG['badword_replacename'] = '替换词';
@@ -505,10 +505,10 @@ $LANG['system'] = '系统';
 $LANG['must_input'] = '必填';
 $LANG['contribute'] = '投稿';
 $LANG['badword_export'] = '敏感词导出';
-$LANG['badword_import'] = '批量导入'; 
+$LANG['badword_import'] = '批量导入';
 //site manage
 $LANG['site_management'] = '站点管理';
-$LANG['add_site'] = '添加站点'; 
+$LANG['add_site'] = '添加站点';
 $LANG['basic_configuration'] = '基本配置';
 $LANG['site_dirname'] = '站点目录';
 $LANG['site_name'] = '站点名';
@@ -740,4 +740,7 @@ $LANG['admin_url_tips'] = '例如：admin.domain.com，绑定后，只能通过�
 
 $LANG['setting_connect_qqnew'] = 'QQ号码登录';
 $LANG['setting_connect_qqcallback'] = '回调地址';
+
+$LANG['indextag_manage'] = '展示标签管理';
+$LANG['trainerlist_manage'] = '展示讲师资源管理';
 ?>
