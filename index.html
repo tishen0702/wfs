@@ -32,14 +32,14 @@ $(function(){
 
     <div class="search">
     	<div class="tab" id="search">
-																<a href="javascript:;" onclick="setmodel(53, $(this));" style="outline:medium none;" hidefocus="true"  class="on" >公开课</a><span> | </span>										<a href="javascript:;" onclick="setmodel(52, $(this));" style="outline:medium none;" hidefocus="true" >专题</a>								</div>
+																<a href="javascript:;" onclick="setmodel(55, $(this));" style="outline:medium none;" hidefocus="true"  class="on" >培训讲师</a><span> | </span>										<a href="javascript:;" onclick="setmodel(54, $(this));" style="outline:medium none;" hidefocus="true" >企业内训</a><span> | </span>										<a href="javascript:;" onclick="setmodel(53, $(this));" style="outline:medium none;" hidefocus="true" >公开课</a><span> | </span>										<a href="javascript:;" onclick="setmodel(56, $(this));" style="outline:medium none;" hidefocus="true" >培训资讯</a><span> | </span>										<a href="javascript:;" onclick="setmodel(52, $(this));" style="outline:medium none;" hidefocus="true" >专题</a>								</div>
 
         <div class="bd">
             <form action="/index.php" method="get" target="_blank">
 				<input type="hidden" name="m" value="search"/>
 				<input type="hidden" name="c" value="index"/>
 				<input type="hidden" name="a" value="init"/>
-				<input type="hidden" name="typeid" value="53" id="typeid"/>
+				<input type="hidden" name="typeid" value="55" id="typeid"/>
 				<input type="hidden" name="siteid" value="1" id="siteid"/>
                 <input type="text" class="text" name="q" id="q"/><input type="submit" value="搜 索" class="button" />
             </form>
@@ -53,7 +53,7 @@ $(function(){
     	        	<ul class="nav-site">
 			<li><a href=""><span>首页</span></a></li>
 						<li class="line">|</li>
-			<li><a href="/html/open/"><span>公开课</span></a></li>
+			<li><a href="/index.php?m=content&c=index&a=lists&catid=6"><span>公开课</span></a></li>
 			            </ul>
         		        </map>
     </div> 
@@ -91,7 +91,7 @@ $(function(){
                     </div>
         <div class="bk10"></div>
                         <div class="box cat-area" style=" margin-right:10px">
-        		<h5 class="title-1">公开课<a href="/html/open/" class="more">更多>></a></h5>
+        		<h5 class="title-1">公开课<a href="/index.php?m=content&c=index&a=lists&catid=6" class="more">更多>></a></h5>
              <div class="content">
                                                         
                 <div class="bk15 hr"></div>
