@@ -78,6 +78,19 @@ $(function(){
 	
 	{if $top_parentid}
     <div class="subnav">
+		<?php
+			if($GET_['catid']!=0){
+				$cid = $GET_['catid'];
+			}else{
+				$cid = '0';
+			}
+			echo $cid;
+		?>
+		{pc:get sql="SELECT * FROM wf_indextag WHERE catid = $cid --" return="data"}
+			{loop $data $r}
+				<a href="{APP_PATH}index.php?m=content&c=tag&catid={$subcatid}&tag={urlencode($keyword)}" target="_blank">{$r[name]}</a><span> | </span>
+			{/loop}
+		{/pc}
 		{pc:content action="category" catid="$top_parentid" num="15" siteid="$siteid" order="listorder ASC"}
 			{loop $data $r}
 			<a href="{$r[url]}">{$r[catname]}</a><span> | </span>
