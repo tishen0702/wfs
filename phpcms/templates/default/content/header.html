@@ -88,7 +88,7 @@ $(function(){
 		?>
 		{pc:get sql="SELECT * FROM wf_indextag WHERE catid = $cid --" return="data"}
 			{loop $data $r}
-				<a href="{APP_PATH}index.php?m=content&c=tag&catid={$subcatid}&tag={urlencode($keyword)}" target="_blank">{$r[name]}</a><span> | </span>
+				<a href="{APP_PATH}index.php?m=content&c=tag&catid={$cid}&tag={urlencode($name)}" target="_blank">{$r[name]}</a><span> | </span>
 			{/loop}
 		{/pc}
 		{pc:content action="category" catid="$top_parentid" num="15" siteid="$siteid" order="listorder ASC"}
